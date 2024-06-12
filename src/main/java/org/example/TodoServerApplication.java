@@ -2,6 +2,6 @@ package org.example;
 
 public class TodoServerApplication {
     public static void main(String[] args){
-        System.out.println("Hello TODO Windows");
+        System.out.println("Hello TODO 10");
     }
 }
